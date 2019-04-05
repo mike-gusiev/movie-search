@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TEST Search input component  TEST Should match the snapshot. 1`] = `
+<div
+  className="search"
+>
+  <input
+    className="search__input"
+    onChange={[Function]}
+    placeholder="Enter movie name"
+    value="search"
+  />
+</div>
+`;

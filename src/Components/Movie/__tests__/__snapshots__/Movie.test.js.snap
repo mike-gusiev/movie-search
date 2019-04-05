@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TEST Movie component  TEST Should match the snapshot. 1`] = `
+<div
+  className="movie"
+>
+  <Link
+    replace={false}
+    to={
+      Object {
+        "pathname": "/movie/undefined",
+        "state": Object {
+          "poster": "http://www.citypages.com/img/movie-placeholder.gif",
+          "title": "image placeholder",
+          "year": undefined,
+        },
+      }
+    }
+  >
+    <div
+      className="movie__container"
+    >
+      <img
+        alt="image placeholder"
+        src="http://www.citypages.com/img/movie-placeholder.gif"
+      />
+      <div
+        className="movie__info"
+      >
+        <h2
+          className="movie__title"
+        >
+          image placeholder
+        </h2>
+        <p
+          className="movie__additional"
+        />
+      </div>
+    </div>
+  </Link>
+</div>
+`;
