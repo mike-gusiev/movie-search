@@ -21,4 +21,4 @@ See the section about [running tests](#running-tests) for more information.
 
 ### Here how it looks:
 
-![Demo screenshot](Screenshot.png?raw=true "")
+![Demo screenshot](screenshot.png?raw=true "")
